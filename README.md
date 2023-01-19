@@ -11,15 +11,17 @@
 <ul>
 <l1>
     NLP or Natural Language Processing can simply be regarded as a field in Artificial Intelligence
-    that focuses on the processing and indepth analyzing of Natural Language Data that sums up converstations between Human to Computers as well as Human to Human. 
+    that focuses on the processing and indepth analyzing of Natural Language Data that sums up conversations between Human to Computers as well as Human to Human. 
 
 In the following snapshot, I have displayed today's work progress that showcases trimming of certain text
 by using a normal Python Library i.e. Regex. It simple removes Hastag expressions, Retweet Text and hyperlinks from the input text and prints it out. 
 
-.
 </li>
 </ul>
 
 
-<img src="./images/d1.png">
-<img src="./images/d1o.png">
+<!-- <img src="./images/d1.png"> -->
+![](images/d1.PNG)
+
+![](images/d1o.PNG)
+<!-- <img src="./images/d1o.png"> -->
