@@ -1,4 +1,4 @@
-<h1>Journey for my 66 Days for NLP <h1>
+<h1>Journey for my 66 Days for NLP </h1>
 
     Currently at the start point for learning Natural Language Processing. With this, i will
     set my path for achieving a small degree of knowledge in NLP and Data Science.  
