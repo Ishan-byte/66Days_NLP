@@ -14,14 +14,12 @@
     that focuses on the processing and indepth analyzing of Natural Language Data that sums up conversations between Human to Computers as well as Human to Human. 
 
 In the following snapshot, I have displayed today's work progress that showcases trimming of certain text
-by using a normal Python Library i.e. Regex. It simple removes Hastag expressions, Retweet Text and hyperlinks from the input text and prints it out. 
+by using a normal Python Library i.e. Regex. It is a simple program that removes Hashtag expressions, Retweet Text and hyperlinks from the input text and prints it out. 
 
 </li>
 </ul>
 
 
-<!-- <img src="./images/d1.png"> -->
 ![](images/d1.PNG)
 
 ![](images/d1o.PNG)
-<!-- <img src="./images/d1o.png"> -->
