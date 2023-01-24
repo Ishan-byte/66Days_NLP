@@ -23,3 +23,21 @@ by using a normal Python Library i.e. Regex. It is a simple program that removes
 ![](images/d1.PNG)
 
 ![](images/d1o.PNG)
+
+
+
+<strong>Day 2 of 66DaysOfNLP</strong>
+
+<ul>
+<l1>
+I would consider String Tokenization as one of the most crucial part while working with traditional NLP models or Advanced Deep Learning Models. The basic concept is to dissect a text or a string into tokens in the form of words or characters or sub words. With this we also have to remove stop words and punctuations as it doesn't add much value for the text.
+
+In today's snapshot I have demonstrated the working of a Word Tokenizer which is one of the most commonly used tokenizer among Character and Sub Word Tokenizer. However, Words Tokenizer will suffer some problems while working with unknown tokens or word as compared to other types. I have implemented the Tokenizer to generate a list of clean word tokens or tweets from a given text string. 
+
+</li>
+</ul>
+
+
+![](images/d2.PNG)
+
+![](images/d20.PNG)
