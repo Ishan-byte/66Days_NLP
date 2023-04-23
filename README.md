@@ -41,3 +41,20 @@ In today's snapshot I have demonstrated the working of a Word Tokenizer which is
 ![](images/d2.PNG)
 
 ![](images/d20.PNG)
+
+
+
+<strong>Day 3 of 66DaysOfNLP</strong>
+
+<ul>
+<l1>
+    On the third day, I have learned about the Stemming process in Natural Language Processing. In simple terms, it can be described as the process of stripping down a word to its most basic form by removing its suffix. It plays a vital role in minimizing the vocabulary size of our datasets. 
+
+        In the snapshot provided below, I have utilized three variants of Stemmer's provided by the NLTK library i.e. Porter, Snowball and Lancaster. Porter Stemmer being the least aggresive stemmer has a less accurate output compared to other two stemmers. Lancaster Stemmer tends to have a aggressive approach which will significantly trim down the word and reduce your vocabulary. 
+</li>
+</ul>
+
+
+![](images/d3.PNG)
+
+![](images/d3O.PNG)
